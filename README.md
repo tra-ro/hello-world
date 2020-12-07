@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-Looking to learn how Github works.
+I'm here to see how GitHub works.
